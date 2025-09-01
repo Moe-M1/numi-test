@@ -38,3 +38,5 @@ Most features of the Numi for macOS are supported in terminal. However, these ar
 -   Plugins/extension
 
 Testing my first branch commit in VS Code.
+
+Testing Rebase in test-branch-2
